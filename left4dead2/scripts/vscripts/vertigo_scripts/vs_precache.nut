@@ -1,0 +1,12 @@
+self.PrecacheScriptSound("ambient/creatures/ratpath01.wav");
+self.PrecacheScriptSound("ambient/creatures/ratpath02.wav");
+self.PrecacheScriptSound("ambient/creatures/ratpath03.wav");
+self.PrecacheScriptSound("ambient/creatures/rats1.wav");
+self.PrecacheScriptSound("ambient/creatures/rats2.wav");
+self.PrecacheScriptSound("ambient/creatures/rats3.wav");
+self.PrecacheScriptSound("ambient/creatures/town_moan1.wav");
+self.PrecacheScriptSound("ambient/creatures/town_scared_breathing1.wav");
+self.PrecacheScriptSound("ambient/creatures/town_scared_breathing2.wav");
+self.PrecacheScriptSound("ambient/creatures/town_scared_sob1.wav");
+self.PrecacheScriptSound("ambient/creatures/town_scared_sob2.wav");
+//self.PrecacheScriptSound("ambient/random_animals/single_bird_07.wav");
